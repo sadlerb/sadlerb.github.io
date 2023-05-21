@@ -1,13 +1,13 @@
 <script setup>
 import Posts from "./Posts.vue";
-import {posts   } from "../assets/posts"
+import { posts } from "../assets/posts.js"
 </script>
 
 <template>
     <div class="projects">
         <h2>My Projects</h2>
         <div v-for="post in posts">
-            <Posts :title="post.title" :text="post.text" :img="post.img" :link="post.link"/>
+            <Posts :title="post.title" :text="post.text" :img="post.img" :link="post.link" />
         </div>
     </div>
 </template>
@@ -18,12 +18,9 @@ import {posts   } from "../assets/posts"
 </script>
 
 <style scoped>
-
 @media only screen and (max-width: 768px) {
-    .projects{
+    .projects {
         text-align: center;
     }
 }
-
-
 </style>
