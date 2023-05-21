@@ -10,7 +10,7 @@ import TheButton from './TheButton.vue';
             {{ img }}
         </div>
         <div v-on:click="openLink()" class="image_wrapper">
-            <img :src='"/assets/images/"+img' alt="postImage">
+            <img :src='"website/assets/images/"+img' alt="postImage">
             <div class="overlay">
                 <TheButton text="Visit the Repository" type="filled"/>
             </div>
