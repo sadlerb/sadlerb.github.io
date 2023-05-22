@@ -10,7 +10,7 @@ import TheSocials from './TheSocials.vue';
                 <h1>Brendon Sadler</h1>
             </div>
             <div class="typed-delayed">
-                <h2>Web Developer</h2>
+                <h2>Full-Stack Developer</h2>
             </div>
             <div class="button_container">
                 <div class="slide">
