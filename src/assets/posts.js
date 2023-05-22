@@ -7,19 +7,19 @@ export const posts = [
   },
   {
     title: "Cubeathon",
-    text: "Cubethon was the first game I made. Made possible by the Unity engine Cubethon is a simple infinite runner game, drawing inspiration from similar games like Subway Surfers or Temple Run. Working with Unity was fun and insightful and I was able to put my acquired knowledge of object-oriented programming into practical use.",
+    text: "Cubethon represents my first venture into game development. Made possible by the Unity engine, Cubethon is a simple infinite runner game, drawing inspiration from similar games like Subway Surfers and Temple Run. Working with Unity was fun and insightful and I was able to put my acquired knowledge of object-oriented programming into practical use.",
     img:"Cubeathon.gif",
     link:"https://github.com/sadlerb/Cubethon"
   },
   {
-    title: "Pokedex",
-    text: "The Pokédex app is a mobile application developed using the powerful Flutter framework. Utilizing the comprehensive PokéAPI, the app fetches and presents a wealth of information about each Pokémon. From their names and types to intriguing details and evolutions. Each page of the app has been designed to captivate and engage users. However, there's one Pokémon that has become a notorious challenge—Eevee. Despite countless attempts, perfecting Eevee's page has proven to be an ongoing pursuit, as if the mischievous Pokémon itself haunts my development endeavors.",
+    title: "Pokédex",
+    text: "The Pokédex app is a mobile application developed using the powerful Flutter framework. Utilizing the comprehensive PokéAPI, the app fetches and presents a wealth of information about each Pokémon. From their names and types to intriguing details and evolutions. Each page of the app has been designed to captivate and engage users.",
     img:"pokedex.gif",
     link:"https://github.com/sadlerb/Pokedex"
   },
   {
     title: "Pong",
-    text: "Pong was my first venture into independent project development. With the use of Java, I created this application, exploring the intricacies of game development and expanding my skills in Java programming.Through Pong, I gained a deeper understanding of Java and discovered a world of possibilities. It provided valuable insights into the mechanics of game development and fueled my curiosity to explore further. It was an engaging experience that allowed me to enhance my skills and urged me to explore and develop more applications.",
+    text: "Pong was my first venture into independent project development. With the use of Java, I created this application, exploring the intricacies of game development and expanding my skills in Java programming.Through Pong, I gained a deeper understanding of Java and discovered a world of possibilities. It provided valuable insights into the mechanics of game development and fueled my curiosity to explore further. It was an engaging experience that allowed me to enhance my skills and inspired me to explore and develop more applications utilizing diffrent languages.",
     img:"pong.gif",
     link:"https://github.com/sadlerb/Pong"
   },
