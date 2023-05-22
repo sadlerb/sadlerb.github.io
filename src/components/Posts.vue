@@ -7,7 +7,6 @@ import TheButton from './TheButton.vue';
         <div class="posts">
             <h2>{{ title }}</h2>
             <p>{{ text }}</p>
-            {{ img }}
         </div>
         <div v-on:click="openLink()" class="image_wrapper">
             <img :src='"/assets/images/"+img' alt="postImage">

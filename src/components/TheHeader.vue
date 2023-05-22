@@ -10,7 +10,7 @@ import TheSocials from './TheSocials.vue';
                 <h1>Brendon Sadler</h1>
             </div>
             <div class="typed-delayed">
-                <h2>Full-Stack Developer</h2>
+                <h2>Web Developer</h2>
             </div>
             <div class="button_container">
                 <div class="slide">
@@ -19,7 +19,7 @@ import TheSocials from './TheSocials.vue';
                     </a>
                 </div>
                 <div class="slide">
-                    <a href="src/assets/Brendon_Sadler(2022).pdf" download="Brendon_Sadler.pdf">
+                    <a href="/assets/Resume_2023.pdf" download="Brendon_Sadler.pdf">
                         <TheButton text="Download My Resume" type="default"/>
                     </a>
                 </div>

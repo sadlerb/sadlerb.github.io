@@ -1,25 +1,25 @@
 export const posts = [
   {
     title: "Sandbot",
-    text: "This is my most recent project. Sandbot is a discord bot created using python and deployed to heroku. So far it can inspire a user on command as well as encourage any use that may be feeling down with a random sentence selcted from a database that ANY user can add to.(The Sandbot and by extention the creator is not respocible for any explicit senctences added to the database)",
+    text: "Introducing Sandbot a powerful and fun discord bot. Sandbot combines the best of technology and convenience to provide a pleasant experience to all users. Sandbot offers a comprehensive search feature. With the ability to scrape the web, it swiftly retrieves Wikipedia articles, word definitions, or images of whatever it is you desire. It scours the internet, fetching the latest news articles, ensuring that you never miss out on important headlines. It also provides real-time updates on game sales, allowing you to find the best deals and discounts across various platforms. Sandbot offers versatility and efficiency, it saves you time, enriches your conversations, and keeps everyone engaged with its seamless integration of web scraping, news articles, game sales, and image search.",
     img:"sandbot.gif",
     link:"https://github.com/sadlerb/Sandbot"
   },
   {
     title: "Cubeathon",
-    text: "Cubethon was the first full(?) game I made using Unity. The project came from following a tutorial made by Brackeys who went over the basics of creating 3D and 2D games in Unity. Working with Unity was extremely straight forward and intuitive. Overall I had a fairly easy time learing the basics of unity to create this game. There were more than a few suspicious flying boxes here and there but since it did not affect gameplay, it was henceforth considered a feature and no further questions were asked.",
+    text: "Cubethon was the first game I made. Made possible by the Unity engine Cubethon is a simple infinite runner game, drawing inspiration from similar games like Subway Surfers or Temple Run. Working with Unity was fun and insightful and I was able to put my acquired knowledge of object-oriented programming into practical use.",
     img:"Cubeathon.gif",
     link:"https://github.com/sadlerb/Cubethon"
   },
   {
     title: "Pokedex",
-    text: "Due to my interest in Pokémon and lack of ability to actually purchase a Pokémon game I did the next best thing and make a Pokémon app. The Pokédex is a moblie application built using Flutter that calls the PokéAPI and displays the name, type, details, and evolutions of each Pokémon. The idea for this project came from mtechviral. This was a joy to work on and it each page looks great too... Except for Eevee. Eevee haunts me.",
+    text: "The Pokédex app is a mobile application developed using the powerful Flutter framework. Utilizing the comprehensive PokéAPI, the app fetches and presents a wealth of information about each Pokémon. From their names and types to intriguing details and evolutions. Each page of the app has been designed to captivate and engage users. However, there's one Pokémon that has become a notorious challenge—Eevee. Despite countless attempts, perfecting Eevee's page has proven to be an ongoing pursuit, as if the mischievous Pokémon itself haunts my development endeavors.",
     img:"pokedex.gif",
     link:"https://github.com/sadlerb/Pokedex"
   },
   {
     title: "Pong",
-    text: "Please ignore the paddels going out of bounds. Poing was basically the first project I decided to do that did not relate to any schoolwork I was doing. I did this a long time ago so I'm not 100% sure where I got the idea from. We just learnt about rendering stuff in Java and I decided I wanted to make Pong. I later tried to make Snake but after realising I would have to be good at math, the project was immediately dropped (I may revist it using html and javascript when I get time).",
+    text: "Pong was my first venture into independent project development. With the use of Java, I created this application, exploring the intricacies of game development and expanding my skills in Java programming.Through Pong, I gained a deeper understanding of Java and discovered a world of possibilities. It provided valuable insights into the mechanics of game development and fueled my curiosity to explore further. It was an engaging experience that allowed me to enhance my skills and urged me to explore and develop more applications.",
     img:"pong.gif",
     link:"https://github.com/sadlerb/Pong"
   },
