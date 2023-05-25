@@ -89,7 +89,48 @@ h1 {
     }
 }
 
+@-moz-keyframes sideInFromRight {
+    from {
+        margin-left: 200%;
+        opacity: 0;
+    }
+
+    to {
+        margin-left: 0%;
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes sideInFromRight {
+    from {
+        margin-left: 200%;
+        opacity: 0;
+    }
+
+    to {
+        margin-left: 0%;
+        opacity: 1;
+    }
+}
 @keyframes typing {
+    from {
+        width: 0
+    }
+
+    to {
+        width: 100%
+    }
+}
+@-webkit-keyframes typing {
+    from {
+        width: 0
+    }
+
+    to {
+        width: 100%
+    }
+}
+@-moz-keyframes typing {
     from {
         width: 0
     }
@@ -100,6 +141,32 @@ h1 {
 }
 
 @keyframes blinking {
+    0% {
+        border-right-color: transparent
+    }
+
+    50% {
+        border-right-color: white
+    }
+
+    100% {
+        border-right-color: transparent
+    }
+}
+@-webkit-keyframes blinking {
+    0% {
+        border-right-color: transparent
+    }
+
+    50% {
+        border-right-color: white
+    }
+
+    100% {
+        border-right-color: transparent
+    }
+}
+@-moz-keyframes blinking {
     0% {
         border-right-color: transparent
     }

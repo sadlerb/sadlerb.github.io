@@ -42,6 +42,29 @@ svg {
     }
 }
 
+@-moz-keyframes elastic-slide {
+    from {
+        margin-left: -400%;
+        opacity: 0;
+    }
+
+    to {
+        margin-left: 0%;
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes elastic-slide {
+    from {
+        margin-left: -400%;
+        opacity: 0;
+    }
+
+    to {
+        margin-left: 0%;
+        opacity: 1;
+    }
+}
 .icon_container {
     display: flex;
     flex-direction: row;
