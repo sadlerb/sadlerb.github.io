@@ -1,6 +1,7 @@
 <script setup>
 import TheButton from './TheButton.vue';
 import TheSocials from './TheSocials.vue';
+import TheCodingIcons from './TheCodingIcons.vue';
 </script>
 
 <template>
@@ -26,14 +27,31 @@ import TheSocials from './TheSocials.vue';
             </div>
             <TheSocials />
         </div>
+        <!-- <div class="coding_icons">
+            <TheCodingIcons/>
+        </div> -->
     </div>
 </template>
 
 <style scoped>
+.header_container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.coding_icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
 .hero {
     display: flex;
     flex-direction: column;
     padding-bottom: 3rem;
+    width: fit-content;
 
 }
 

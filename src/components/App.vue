@@ -30,9 +30,7 @@ import TheShowcase from './TheShowcase.vue';
   
 
 }
-header{
-  width: fit-content;
-}
+
 footer{
   align-self: center;
 }

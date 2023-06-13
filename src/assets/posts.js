@@ -1,5 +1,11 @@
 export const posts = [
   {
+    title: "CrwnClothing",
+    text: "This is CrwnClothing, my latest e-commerce app! It offers users a seamless shopping experience, allowing them to browse and add clothing items to their carts with ease. CrwnClothing was developed as part of an online course, where I honed my skills in React.js, React Redux and GraphQL.SeamStyle integrates Firebase for efficient database management and secure user authentication, ensuring a reliable and secure shopping environment. With its intuitive UI and sleek design, SeamStyle offers a hassle-free journey from browsing to checkout.",
+    img:"Ecommerce.gif",
+    link:"https://github.com/sadlerb/ecommerce-react-app-"
+  },
+  {
     title: "Sandbot",
     text: "Introducing Sandbot a powerful and fun discord bot. Sandbot combines the best of technology and convenience to provide a pleasant experience to all users. Sandbot offers a comprehensive search feature. With the ability to scrape the web, it swiftly retrieves Wikipedia articles, word definitions, or images of whatever it is you desire. It scours the internet, fetching the latest news articles, ensuring that you never miss out on important headlines. It also provides real-time updates on game sales, allowing you to find the best deals and discounts across various platforms. Sandbot offers versatility and efficiency, it saves you time, enriches your conversations, and keeps everyone engaged with its seamless integration of web scraping, news articles, game sales, and image search.",
     img:"sandbot.gif",
