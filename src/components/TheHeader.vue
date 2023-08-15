@@ -1,7 +1,7 @@
 <script setup>
 import TheButton from './TheButton.vue';
 import TheSocials from './TheSocials.vue';
-import TheCodingIcons from './TheCodingIcons.vue';
+
 </script>
 
 <template>
@@ -11,7 +11,7 @@ import TheCodingIcons from './TheCodingIcons.vue';
                 <h1>Brendon Sadler</h1>
             </div>
             <div class="typed-delayed">
-                <h2>Full-Stack Developer</h2>
+                <h2>Software Developer</h2>
             </div>
             <div class="button_container">
                 <div class="slide">
@@ -20,7 +20,7 @@ import TheCodingIcons from './TheCodingIcons.vue';
                     </a>
                 </div>
                 <div class="slide">
-                    <a href="/assets/Resume_2023.pdf" download="Brendon_Sadler.pdf">
+                    <a href="/src/assets/Brendon_Sadler.pdf" download="Brendon_Sadler.pdf">
                         <TheButton text="Download My Resume" type="default"/>
                     </a>
                 </div>
