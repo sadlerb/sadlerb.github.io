@@ -20,7 +20,7 @@ import TheSocials from './TheSocials.vue';
                     </a>
                 </div>
                 <div class="slide">
-                    <a href="/src/assets/Brendon_Sadler.pdf" download="Brendon_Sadler.pdf">
+                    <a href="/assets/Brendon_Sadler.pdf" download="Brendon_Sadler.pdf">
                         <TheButton text="Download My Resume" type="default"/>
                     </a>
                 </div>
