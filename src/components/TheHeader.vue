@@ -2,6 +2,7 @@
 import TheButton from './TheButton.vue';
 import TheSocials from './TheSocials.vue';
 
+
 </script>
 
 <template>
